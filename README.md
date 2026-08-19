@@ -1,2 +1,2 @@
 # PowerBI_Dashboard_Project
-This is a power bi end to end project
+E-commerce Sales Dashboard developed in Power BI using data modeling, DAX, and interactive visualizations.
